@@ -103,3 +103,11 @@ ENV/
 # etc
 #*.bat
 call cmd.bat
+
+# Local reverse-engineering and patch artifacts
+_archive_recursive.txt
+_archive_view.txt
+_extracted/
+_patched/
+tools/
+hitomi_downloader_GUI.exe
